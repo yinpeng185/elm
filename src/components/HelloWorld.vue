@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     123
+    <h1>hello!</h1>
   </div>
 </template>
 
