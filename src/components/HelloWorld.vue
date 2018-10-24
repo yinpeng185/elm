@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
     123
-    <h2>666</h2>
   </div>
 </template>
 
